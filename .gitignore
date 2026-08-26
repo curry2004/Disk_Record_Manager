@@ -1,0 +1,13 @@
+build/
+lib/
+.vscode/
+*.o
+*.a
+*.out
+*.exe
+*.cache
+*.bin
+test ems isort nest table hjoin
+disk.dat
+compile_commands.json
+.DS_Store
